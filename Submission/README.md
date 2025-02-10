@@ -9,7 +9,8 @@
 # Run Dashboard
 ```
 - streamlit run dashbooard.py
-or
+```
+Or you can do this
+```
 - python -m streamlit run dashboard.py
 ```
-
