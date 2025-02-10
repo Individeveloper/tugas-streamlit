@@ -1,4 +1,5 @@
 # Setup Environment - Shell/Terminal
+---
 ```
 - mkdir Submission
 - cd Submission
@@ -8,9 +9,11 @@
 ```
 # Run Dashboard
 ---
+```
 - streamlit run dashbooard.py
-
-#Or
-
+```
+# Or
 ---
+```
 - python -m streamlit run dashboard.py
+````
